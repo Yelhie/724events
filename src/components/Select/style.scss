@@ -3,22 +3,28 @@
   min-height: 86px;
   position: relative;
   margin-left: 8px;
+
   .label {
     color: white;
     margin-bottom: 4px;
     margin-top: 4px;
   }
+
   &.large {
     width: 424px;
+
     .Select {
       width: 442px;
+
       ul {
         width: 442px;
       }
     }
   }
+
   margin-bottom: 16px;
 }
+
 .Select {
   background-color: white;
   border-radius: 4px;
@@ -28,12 +34,14 @@
   display: flex;
   position: absolute;
   z-index: 1;
+
   ul {
     position: relative;
     list-style: none;
     width: 300px;
     padding: 0;
     padding-left: 16px;
+
     li {
       display: flex;
       align-items: center;
@@ -43,26 +51,33 @@
       text-transform: capitalize;
     }
   }
+
   input {
+    cursor: pointer;
     width: 16px;
     height: 16px;
     min-width: 16px;
     margin-right: 16px;
   }
+
   button {
+    cursor: pointer;
     border: none;
     background: none;
     height: 32px;
     margin-top: 16px;
     margin-right: 8px;
+
     &.close {
       transform: rotate(180deg);
     }
   }
+
   .SelectTitle {
     &--show {
       display: flex;
     }
+
     &--hide {
       color: white;
     }
