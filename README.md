@@ -1,15 +1,37 @@
 # 724 Events
 
-## Description
-L'application est le site d'une agence evenementielle.
-## Pre-requis
-- NodeJS  >= v16.14.1
+Projet de la formation OpenClassrooms intégrateur web dont voici les objectifs:
 
-## Installation
-- `yarn install`
+- Débogage d'une application React avec test unitaire et React Developer Tools.
+- Mise en place de test fonctionnel.
+- Correction des erreurs et warning console.
+- Rédactions d'un cahier de recette.
 
-## Lancement de l'application
-- `yarn start`
+## Instructions
 
-## Tests
-- `yarn test`
+```bash
+# Installer les dépendances avec
+yarn install
+
+# Démarrer le serveur avec
+yarn start
+
+# Lancer les testes unitaire avec
+yarn test
+
+```
+
+## Stack
+
+**Client:**
+
+- HTML
+- Sass
+- JavaScript
+- React
+
+## Screenshots
+
+**Home page**
+
+![724 Events home page](https://github.com/Yelhie/xi5ftcai605u/blob/master/img/724events_24165446.jpg)
