@@ -34,4 +34,4 @@ yarn test
 
 **Home page**
 
-![724 Events home page](https://github.com/Yelhie/xi5ftcai605u/blob/master/img/724events_24165446.jpg)
+![724 Events home page](https://github.com/Yelhie/724events/blob/master/screenshot/724events_24165446.jpg)
