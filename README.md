@@ -21,14 +21,12 @@ yarn test
 
 ```
 
-## Stack
+## Stack Technique
 
-**Client:**
-
-- HTML
-- Sass
-- JavaScript
-- React
+|  Backend   | Frontend | Base de données | Documentation API et Test |
+|:----------:|:--------:|:---------------:|:-------------------------:|
+|  |  React   |                 |                   |
+|  |   Sass   |               |                     |
 
 ## Screenshots
 
